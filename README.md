@@ -1,2 +1,2 @@
-# Studi Kasus 1: Pemodelan Penyebaran Polusi Udara PM2.5 Berbasis Komputasi Paralel
+# Studi Kasus 2: Pemodelan Penyebaran Polusi Udara PM2.5 Berbasis Komputasi Paralel
 Program ini merupakan simulasi pemrosesan paralel berbasis Python yang mendistribusikan beban komputasi data spasial—seperti analisis tingkat polusi udara PM2.5—ke beberapa core prosesor secara serentak. Dengan mengadopsi prinsip kerja High-Performance Computing (HPC), program ini dirancang untuk memproses data skala besar secara efisien dan memangkas waktu eksekusi secara drastis.
